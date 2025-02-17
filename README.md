@@ -1,5 +1,5 @@
 # faceRecognition
-Face recognition system
+Face recognition system using CNN and Viola Jones Algorithm
 
 #How to Run the code:
 open the "app-gui" and run
